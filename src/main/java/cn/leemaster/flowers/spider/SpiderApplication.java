@@ -10,5 +10,6 @@ public class SpiderApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpiderApplication.class, args);
+
 	}
 }
